@@ -1,0 +1,201 @@
+Developer,Neighborhood,Type,Year,Elevator,TrashChute,Apartments,Floors,AvgArea
+Nova Construction,Hilltop,0,2015,YES,NO,47,13,3.50
+Nova Construction,Sunset Valley,0,2006,NO,NO,23,5,67.50
+Urban Builders,Hilltop,1,2001,YES,YES,89,12,53.60
+Skyline Corp,Downtown,0,2019,YES,YES,76,11,17.30
+EcoHomes,Greenfield,2,2018,YES,NO,11,3,61.50
+EcoHomes,Downtown,0,2012,YES,NO,44,6,46.90
+Skyline Corp,Hilltop,2,2017,NO,NO,84,9,84.30
+Skyline Corp,Sunset Valley,2,2013,YES,NO,26,18,83.90
+EcoHomes,Riverside,2,1995,YES,YES,32,11,62.50
+Metro Development,Hilltop,0,1999,NO,YES,75,3,68.30
+Metro Development,Riverside,0,2020,NO,YES,47,19,95.50
+EcoHomes,Hilltop,1,2007,YES,NO,81,8,28.40
+Metro Development,Riverside,0,2014,YES,NO,57,15,20.10
+EcoHomes,Riverside,2,1992,YES,NO,41,8,90.70
+Metro Development,Downtown,2,2001,NO,NO,79,10,93.50
+EcoHomes,Hilltop,1,1991,NO,YES,40,19,50.80
+EcoHomes,Greenfield,2,1998,NO,YES,82,1,90.60
+EcoHomes,Downtown,1,1983,YES,YES,66,4,14.80
+EcoHomes,Downtown,1,1982,YES,YES,43,15,84.20
+Urban Builders,Hilltop,2,2003,NO,YES,32,10,62.70
+Skyline Corp,Hilltop,2,1983,YES,YES,29,5,26.90
+Metro Development,Greenfield,1,1990,YES,NO,39,18,39.90
+Nova Construction,Riverside,0,2004,YES,NO,35,18,39.70
+EcoHomes,Riverside,2,1980,YES,YES,14,16,65.80
+Metro Development,Greenfield,0,2006,NO,NO,27,15,43.10
+Urban Builders,Downtown,1,1986,YES,YES,38,14,74.80
+Nova Construction,Sunset Valley,2,2016,NO,YES,51,10,17.80
+Metro Development,Hilltop,2,2019,YES,YES,78,15,93.80
+Urban Builders,Downtown,1,2017,NO,YES,81,18,36.50
+Urban Builders,Greenfield,2,1988,YES,YES,16,5,71.10
+Nova Construction,Sunset Valley,0,2005,NO,YES,92,9,95.50
+Skyline Corp,Downtown,0,2001,NO,YES,82,8,40.90
+Nova Construction,Sunset Valley,2,1996,YES,YES,12,13,21.10
+Nova Construction,Sunset Valley,2,2000,NO,YES,18,6,53.10
+Metro Development,Sunset Valley,0,1993,NO,YES,24,16,62.80
+Skyline Corp,Riverside,2,2003,NO,YES,57,18,65.70
+EcoHomes,Greenfield,2,2009,YES,YES,76,6,80.00
+EcoHomes,Sunset Valley,1,1987,YES,NO,76,10,36.70
+EcoHomes,Riverside,2,2014,NO,YES,34,13,93.30
+EcoHomes,Sunset Valley,2,1993,YES,YES,62,20,71.00
+Urban Builders,Hilltop,0,2003,YES,NO,96,12,39.70
+Metro Development,Downtown,1,1996,YES,NO,57,19,41.50
+Metro Development,Sunset Valley,2,1991,NO,YES,27,11,77.10
+Skyline Corp,Downtown,2,2013,YES,YES,28,3,48.70
+Urban Builders,Downtown,1,1986,NO,NO,58,13,39.10
+Nova Construction,Greenfield,1,1997,YES,NO,95,13,67.70
+Nova Construction,Downtown,1,2013,YES,NO,19,2,37.70
+Skyline Corp,Hilltop,2,2016,NO,YES,37,4,5.60
+Skyline Corp,Sunset Valley,1,2017,NO,YES,18,4,61.00
+Nova Construction,Sunset Valley,2,1989,YES,NO,32,5,76.80
+EcoHomes,Riverside,2,2019,NO,YES,28,7,66.60
+Metro Development,Greenfield,0,2017,NO,NO,21,9,81.40
+Metro Development,Greenfield,0,2012,YES,NO,20,7,75.10
+Metro Development,Downtown,1,2018,NO,NO,53,9,73.20
+Nova Construction,Greenfield,0,1993,NO,YES,15,10,58.50
+EcoHomes,Downtown,1,2016,NO,YES,63,18,99.60
+Skyline Corp,Downtown,1,1991,NO,YES,55,4,20.00
+Urban Builders,Sunset Valley,1,1995,YES,NO,87,11,2.80
+Skyline Corp,Downtown,2,1995,YES,YES,16,19,26.70
+Nova Construction,Greenfield,1,2014,NO,YES,61,3,68.40
+Skyline Corp,Hilltop,1,2020,YES,NO,75,1,6.70
+EcoHomes,Greenfield,1,2017,YES,NO,45,5,2.10
+Nova Construction,Downtown,1,1987,NO,NO,36,10,96.40
+Metro Development,Greenfield,2,1986,YES,YES,89,9,96.90
+Nova Construction,Riverside,0,1994,NO,NO,24,1,14.80
+Urban Builders,Hilltop,0,1989,NO,YES,74,5,24.40
+Skyline Corp,Riverside,2,1988,NO,NO,36,6,25.70
+Skyline Corp,Riverside,1,2015,YES,YES,62,17,88.40
+Metro Development,Downtown,0,1986,NO,NO,92,9,19.90
+Nova Construction,Hilltop,1,2002,NO,YES,88,18,5.70
+Nova Construction,Hilltop,2,2015,NO,NO,86,16,21.30
+Skyline Corp,Hilltop,0,1993,YES,NO,63,19,77.20
+EcoHomes,Sunset Valley,0,1989,YES,NO,11,7,90.90
+Nova Construction,Hilltop,1,1999,NO,YES,49,19,88.50
+Nova Construction,Greenfield,2,1995,YES,NO,51,7,4.70
+Urban Builders,Greenfield,1,2000,YES,NO,73,10,41.10
+Nova Construction,Hilltop,1,1995,YES,NO,56,18,18.90
+Skyline Corp,Hilltop,0,2014,YES,YES,87,11,74.50
+Nova Construction,Sunset Valley,2,2016,NO,NO,92,2,13.80
+Metro Development,Hilltop,0,1990,NO,YES,41,3,59.00
+Nova Construction,Sunset Valley,2,1990,YES,YES,95,10,3.80
+Metro Development,Greenfield,1,2009,NO,YES,40,4,57.60
+Metro Development,Riverside,1,2010,YES,NO,95,10,40.60
+EcoHomes,Greenfield,0,1987,NO,YES,73,1,97.90
+Urban Builders,Sunset Valley,1,2004,NO,NO,60,6,9.10
+Nova Construction,Hilltop,1,1996,NO,YES,22,16,27.10
+Urban Builders,Downtown,2,1984,YES,NO,35,14,72.70
+Metro Development,Hilltop,0,1987,YES,NO,60,4,11.30
+Skyline Corp,Downtown,2,2012,YES,NO,29,7,23.20
+Nova Construction,Riverside,1,2014,NO,NO,64,20,9.80
+Metro Development,Downtown,1,2007,YES,YES,76,8,35.50
+Urban Builders,Sunset Valley,2,1999,YES,YES,78,20,7.60
+EcoHomes,Hilltop,2,2009,YES,NO,37,2,66.70
+Skyline Corp,Sunset Valley,0,2016,YES,NO,58,19,96.20
+Urban Builders,Downtown,1,2003,NO,YES,63,12,15.30
+Urban Builders,Greenfield,0,1982,YES,NO,40,20,83.90
+Urban Builders,Hilltop,0,2007,NO,YES,91,17,60.60
+Nova Construction,Hilltop,0,2017,NO,NO,34,19,1.30
+Nova Construction,Hilltop,0,2016,NO,YES,59,19,91.10
+Skyline Corp,Downtown,1,2012,NO,YES,17,14,79.80
+Skyline Corp,Greenfield,0,1992,NO,NO,46,1,10.70
+Urban Builders,Sunset Valley,0,2019,YES,NO,63,2,99.80
+Urban Builders,Downtown,2,2012,YES,YES,80,10,65.10
+Urban Builders,Hilltop,1,2015,YES,NO,70,6,77.10
+Skyline Corp,Sunset Valley,0,2011,NO,YES,61,12,23.10
+Urban Builders,Downtown,2,1987,YES,YES,25,16,15.70
+Nova Construction,Downtown,2,1982,YES,NO,15,4,1.40
+Metro Development,Hilltop,0,1990,NO,YES,46,3,56.80
+Metro Development,Sunset Valley,2,2004,YES,NO,49,2,14.70
+Urban Builders,Sunset Valley,2,2002,YES,YES,48,14,76.10
+Metro Development,Downtown,2,1990,YES,NO,44,5,34.00
+Nova Construction,Riverside,1,2001,YES,NO,26,20,74.90
+Nova Construction,Riverside,0,1983,YES,YES,92,1,99.90
+Nova Construction,Downtown,1,1984,NO,NO,77,6,92.40
+Skyline Corp,Riverside,0,1982,YES,NO,85,7,92.80
+Metro Development,Greenfield,1,2001,YES,YES,87,11,9.20
+Nova Construction,Greenfield,1,1980,NO,NO,55,5,28.90
+Skyline Corp,Greenfield,0,2005,NO,NO,57,6,81.50
+Metro Development,Sunset Valley,0,2013,YES,YES,96,20,28.70
+EcoHomes,Hilltop,0,2002,NO,YES,13,18,50.60
+Nova Construction,Hilltop,0,2007,NO,NO,39,20,49.40
+Metro Development,Hilltop,0,2000,YES,YES,51,6,25.50
+EcoHomes,Riverside,1,2018,NO,NO,80,10,13.10
+Metro Development,Riverside,1,1991,YES,NO,60,18,3.20
+Skyline Corp,Riverside,1,1996,YES,YES,71,6,57.60
+Metro Development,Hilltop,0,1990,YES,NO,25,18,7.00
+Skyline Corp,Riverside,2,2018,NO,NO,48,4,5.80
+Metro Development,Sunset Valley,2,1992,YES,YES,92,5,25.80
+Urban Builders,Riverside,2,1995,YES,NO,27,12,67.20
+Nova Construction,Riverside,2,1986,YES,YES,20,11,50.20
+EcoHomes,Hilltop,0,1981,YES,NO,68,10,83.00
+EcoHomes,Hilltop,0,2003,YES,YES,98,19,92.60
+Nova Construction,Hilltop,0,2007,NO,NO,32,2,76.40
+Nova Construction,Greenfield,2,1983,NO,YES,47,1,72.30
+Urban Builders,Downtown,2,1999,YES,NO,49,19,74.30
+Nova Construction,Hilltop,2,2011,NO,YES,90,16,95.30
+EcoHomes,Hilltop,1,1987,NO,NO,77,15,69.10
+Metro Development,Downtown,0,2006,YES,NO,27,9,92.00
+Nova Construction,Greenfield,0,1990,YES,YES,89,17,35.10
+Skyline Corp,Greenfield,1,2001,NO,NO,52,8,5.30
+Nova Construction,Greenfield,2,2007,NO,YES,63,16,76.00
+EcoHomes,Greenfield,2,1995,YES,NO,72,19,45.20
+Metro Development,Greenfield,2,1998,YES,NO,64,4,93.40
+Nova Construction,Sunset Valley,0,1996,YES,YES,48,3,91.00
+Skyline Corp,Downtown,1,1998,NO,YES,82,15,9.20
+Urban Builders,Riverside,2,1983,NO,NO,23,11,2.10
+EcoHomes,Greenfield,0,1991,NO,NO,28,14,31.10
+Skyline Corp,Riverside,0,1994,NO,NO,82,12,77.50
+Nova Construction,Greenfield,2,1993,NO,NO,37,2,75.20
+Urban Builders,Sunset Valley,1,2004,NO,YES,65,12,40.40
+Skyline Corp,Hilltop,0,2002,NO,NO,19,7,32.90
+Skyline Corp,Downtown,1,1994,YES,YES,26,15,40.70
+Urban Builders,Sunset Valley,0,2009,NO,NO,59,6,21.10
+EcoHomes,Downtown,2,1986,YES,YES,50,5,65.00
+Nova Construction,Riverside,2,1988,NO,YES,85,12,49.70
+EcoHomes,Hilltop,0,1988,NO,NO,80,10,59.30
+Metro Development,Downtown,2,1980,NO,YES,27,1,7.20
+Metro Development,Greenfield,2,2008,NO,NO,32,11,96.20
+Metro Development,Riverside,0,2013,YES,NO,90,1,4.70
+EcoHomes,Greenfield,2,2019,YES,NO,27,12,27.50
+Skyline Corp,Downtown,0,2002,NO,YES,11,7,69.00
+Urban Builders,Downtown,0,1988,NO,NO,50,18,76.80
+Skyline Corp,Riverside,2,2000,YES,YES,82,8,93.40
+Metro Development,Greenfield,2,2019,YES,NO,43,10,91.80
+Skyline Corp,Greenfield,1,2003,YES,NO,94,12,51.50
+EcoHomes,Downtown,0,1980,NO,YES,76,15,85.00
+EcoHomes,Greenfield,2,2002,YES,NO,81,4,12.20
+Nova Construction,Hilltop,0,1989,NO,NO,41,15,76.70
+Skyline Corp,Sunset Valley,0,1999,NO,NO,45,19,94.60
+Skyline Corp,Riverside,1,2007,YES,NO,90,15,86.10
+Nova Construction,Greenfield,1,2017,NO,NO,60,6,42.00
+Urban Builders,Sunset Valley,1,1990,YES,YES,68,15,31.60
+Nova Construction,Hilltop,1,1988,YES,NO,54,1,39.60
+Nova Construction,Greenfield,2,2001,NO,NO,12,10,55.40
+Skyline Corp,Downtown,2,2007,NO,NO,57,1,93.60
+Nova Construction,Downtown,2,2018,NO,YES,66,8,95.30
+EcoHomes,Sunset Valley,0,1982,YES,NO,99,10,63.80
+Nova Construction,Riverside,1,1987,YES,YES,16,2,30.60
+EcoHomes,Greenfield,1,1981,NO,NO,93,4,8.20
+Nova Construction,Riverside,1,2005,NO,YES,38,20,23.70
+Nova Construction,Hilltop,2,2005,NO,NO,74,11,6.50
+Metro Development,Hilltop,0,2013,YES,YES,24,1,92.60
+Urban Builders,Hilltop,1,2000,YES,YES,54,12,51.70
+Skyline Corp,Hilltop,0,2010,NO,YES,19,1,78.40
+EcoHomes,Sunset Valley,2,2018,NO,YES,63,19,16.60
+EcoHomes,Riverside,1,2000,NO,NO,48,16,66.70
+Metro Development,Sunset Valley,1,2011,NO,NO,32,3,34.20
+Skyline Corp,Riverside,1,2012,NO,NO,44,10,15.10
+Urban Builders,Downtown,0,2002,YES,YES,73,11,37.90
+EcoHomes,Hilltop,0,2002,YES,YES,12,1,79.70
+Metro Development,Riverside,2,2019,YES,YES,34,16,55.20
+Skyline Corp,Hilltop,1,2019,YES,NO,69,1,60.20
+Nova Construction,Greenfield,2,2020,NO,NO,90,11,49.40
+Nova Construction,Sunset Valley,2,1997,NO,YES,30,20,9.80
+Nova Construction,Sunset Valley,0,1982,NO,NO,30,11,12.80
+Urban Builders,Hilltop,2,1998,NO,YES,95,5,30.80
+Metro Development,Greenfield,2,2011,NO,YES,55,15,88.00
+Nova Construction,Sunset Valley,1,1994,YES,NO,77,13,0.20
+Urban Builders,Downtown,0,2002,YES,YES,25,20,94.60
+Nova Construction,Sunset Valley,1,1986,NO,YES,87,10,70.00
